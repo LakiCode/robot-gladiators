@@ -17,7 +17,7 @@ console.log("My robot's name is " + playerName);
 var name = "your name";
 */
 
-//from page 3.1.6
+//start from page 3.1.6
 //use same script from above and create varible
 var playerName = window.prompt ("What is your robot's name?");
 var playerHealth = 100;
@@ -83,4 +83,4 @@ var fight = function () {
 
 };
 // execute function
- // fight();
+  fight();
